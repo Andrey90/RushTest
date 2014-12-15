@@ -4,9 +4,9 @@ package shildt.book.exampleNewBox;
  * Created by SuperStar on 08.12.2014.
  */
 class DemoShipment {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Shipment shipment1 = new Shipment(10, 12, 15, 23, 10.45);
-        Shipment shipment2 = new Shipment(4, 5, 45, 0.123, 23.021 );
+        Shipment shipment2 = new Shipment(4, 5, 45, 0.123, 23.021);
         double vol;
 
         vol = shipment1.volume();

@@ -4,9 +4,9 @@ package shildt.book;
  * Created by SuperStar on 01.12.2014.
  */
 class MissingBreak {
-    public static void main(String args[]){
-        for (int i = 0; i < 12; i++){
-            switch (i){
+    public static void main(String args[]) {
+        for (int i = 0; i < 12; i++) {
+            switch (i) {
                 case 0:
                 case 1:
                 case 2:

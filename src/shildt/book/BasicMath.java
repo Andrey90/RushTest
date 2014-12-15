@@ -1,10 +1,7 @@
 package shildt.book;
 
-/**
- * Created by SuperStar on 27.11.2014.
- */
 class BasicMath {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         System.out.println("Целочисленная арифметика");
         int a = 1 + 1;
         int b = a * 3;

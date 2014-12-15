@@ -4,7 +4,7 @@ package shildt.book;
  * Created by SuperStar on 30.11.2014.
  */
 class IncDec {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         int a = 1;
         int b = 2;
         int c;
@@ -12,10 +12,10 @@ class IncDec {
         c = ++b;
         d = a++;
         c++;
-        System.out.println("a = " +a);
-        System.out.println("b = " +b);
-        System.out.println("c = " +c);
-        System.out.println("d = " +d);
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        System.out.println("c = " + c);
+        System.out.println("d = " + d);
     }
 
 }

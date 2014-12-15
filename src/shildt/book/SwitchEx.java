@@ -1,15 +1,14 @@
 package shildt.book;
 
 
-
 /**
  * Created by SuperStar on 01.12.2014.
  */
 class SwitchEx {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         String season;
-        for (int i = 1; i<=13; i++){
-            switch (i){
+        for (int i = 1; i <= 13; i++) {
+            switch (i) {
                 case 12:
                 case 1:
                 case 2:
@@ -35,7 +34,6 @@ class SwitchEx {
             }
             System.out.println(season);
         }
-
 
 
     }

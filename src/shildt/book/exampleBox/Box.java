@@ -13,7 +13,7 @@ class Box {
     }
 
     //установка размеров паралелепипеда
-    void setDim (double w, double h, double d){
+    void setDim(double w, double h, double d) {
         width = w;
         height = h;
         depth = d;

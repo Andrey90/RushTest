@@ -11,6 +11,6 @@ class Average {
 
         for (i = 0; i < 5; i++)
             result = result + nums[i];
-        System.out.println("Sregnee znachenie ravno:" + result/5);
+        System.out.println("Sregnee znachenie ravno:" + result / 5);
     }
 }

@@ -4,9 +4,9 @@ package shildt.book;
  * Created by SuperStar on 01.12.2014.
  */
 class SampleSwitch {
-    public static void main(String args[]){
-        for (int i = 0; i<6; i++)
-            switch (i){
+    public static void main(String args[]) {
+        for (int i = 0; i < 6; i++)
+            switch (i) {
                 case 0:
                     System.out.println("i ravno 0");
                     break;

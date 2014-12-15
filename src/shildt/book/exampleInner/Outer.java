@@ -6,14 +6,14 @@ package shildt.book.exampleInner;
 class Outer {
     int outer_x = 100;
 
-    void test(){
+    void test() {
         Inner inner = new Inner();
         inner.display();
     }
 
     //внутренний класс
-    class Inner{
-        void display(){
+    class Inner {
+        void display() {
             System.out.println(outer_x);
         }
     }

@@ -4,7 +4,7 @@ package shildt.book;
  * Created by SuperStar on 25.11.2014.
  */
 class BoolTest {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         boolean b;
 
         b = false;

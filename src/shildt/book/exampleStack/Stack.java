@@ -8,26 +8,24 @@ class Stack {
     int tos;
 
     //Инициализация верхушки стека
-    Stack(){
+    Stack() {
         tos = -1;
     }
 
     //Заталкивание елемента в стек
-    void push(int item){
-        if (tos == 9){
+    void push(int item) {
+        if (tos == 9) {
             System.out.println("Стек полон");
-        }
-        else
+        } else
             stck[++tos] = item;
     }
 
     //Выталкивание елемента из стека
-    int pop(){
-        if (tos < 0){
+    int pop() {
+        if (tos < 0) {
             System.out.println("Стек пустой");
             return 0;
-        }
-        else
+        } else
             return stck[tos--];
     }
 }

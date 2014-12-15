@@ -4,7 +4,7 @@ package shildt.book;
  * Created by SuperStar on 26.11.2014.
  */
 class ThreeMatrix {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         int threeD[][][] = new int[3][4][5];
         int i, j, k;
         for (i = 0; i < 3; i++)

@@ -1,10 +1,7 @@
 package shildt.book;
 
-/**
- * Created by SuperStar on 27.11.2014.
- */
 class OpEquals {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         int a = 1;
         int b = 2;
         int c = 3;

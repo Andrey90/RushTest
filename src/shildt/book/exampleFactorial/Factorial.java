@@ -5,11 +5,11 @@ package shildt.book.exampleFactorial;
  */
 class Factorial {
     //рекурсивный метод
-    int fac(int n){
+    int fac(int n) {
         int result;
 
-        if (n == 1)return 1;
-        result = fac(n-1) * n;
+        if (n == 1) return 1;
+        result = fac(n - 1) * n;
         return result;
     }
 }

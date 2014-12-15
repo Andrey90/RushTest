@@ -7,10 +7,11 @@ class BoxWeight extends Box {
     double weight; //вес паралелепипеда
 
     //конструирование клона обьекта
-    BoxWeight (BoxWeight ob){ //передача обьекта конструктору
+    BoxWeight(BoxWeight ob) { //передача обьекта конструктору
         super(ob);
         weight = ob.weight;
     }
+
     //конструктор, используемый при указании всех параметров
     BoxWeight(double w, double h, double d, double m) {
         super(w, h, d);
@@ -18,13 +19,13 @@ class BoxWeight extends Box {
     }
 
     //конструктор используемый по умолчанию
-    BoxWeight(){
+    BoxWeight() {
         super();
         weight = -1;
     }
 
     //конструктор используемый при создании куба
-    BoxWeight(double len, double m){
+    BoxWeight(double len, double m) {
         super(len);
         weight = m;
     }

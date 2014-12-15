@@ -13,7 +13,7 @@ class BoxDemo {
         BoxWeight mybox4 = new BoxWeight(10, 20, 15, 34.4);
         BoxWeight mybox5 = new BoxWeight(2, 3, 5, 0.00342);
 
-        ColorBox mybox6 = new ColorBox(12,32,43,"red");
+        ColorBox mybox6 = new ColorBox(12, 32, 43, "red");
 
         double vol;
 

@@ -6,7 +6,7 @@ package shildt.book.exampleSimpleInheritance;
 class A {
     int i, j;
 
-    void showij(){
+    void showij() {
         System.out.println("i and j: " + i + " " + j);
     }
 }

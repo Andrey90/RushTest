@@ -8,25 +8,25 @@ class Stack {
     private int tos;
 
     //резервирование и инициализация стека
-    Stack(int size){
+    Stack(int size) {
         stock = new int[size];
-    tos = -1;
+        tos = -1;
     }
 
     //Проталкивание елемента в стек
-    void push(int item){
+    void push(int item) {
         if (tos == stock.length - 1)
             System.out.println("Стек полон");
         else
             stock[++tos] = item;
     }
+
     //Выталкивание елемента из стека
-    int pop(){
+    int pop() {
         if (tos < 0) {
             System.out.println("Стек не загружен");
             return 0;
-        }
-        else
+        } else
             return stock[tos--];
     }
 

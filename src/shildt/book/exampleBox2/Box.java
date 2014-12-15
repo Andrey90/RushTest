@@ -9,7 +9,7 @@ class Box {
     private double depth;
 
     //конструирование клона обьекта
-    Box(Box ob){
+    Box(Box ob) {
         //передача обьекта конструктору
         width = ob.width;
         height = ob.height;
@@ -17,7 +17,7 @@ class Box {
     }
 
     //конструктор, используемый при указании всех измерений
-    Box(double w, double h, double d){
+    Box(double w, double h, double d) {
         System.out.println("Конструирование обьекта Box");
         width = w;
         height = h;
@@ -25,19 +25,19 @@ class Box {
     }
 
     //конструктор, используемый если нет изменений
-    Box(){
+    Box() {
         width = -1;
         height = -1;
         depth = -1;
     }
 
     //конструктор, используемый при создании куба
-    Box(double len){
+    Box(double len) {
         width = depth = height = len;
     }
 
     //Вычисление и возращение обьема
-    double volume(){
+    double volume() {
         return width * height * depth;
     }
 

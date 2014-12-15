@@ -4,7 +4,7 @@ package shildt.book.exampleOverload;
  * Created by SuperStar on 03.12.2014.
  */
 class OverLoad {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         OverLoadDemo ob = new OverLoadDemo();
         int i = 88;
 

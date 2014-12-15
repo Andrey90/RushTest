@@ -6,11 +6,11 @@ package shildt.book.exampleSimpleInheritance;
 class B extends A {
     int k;
 
-    void showk(){
+    void showk() {
         System.out.println("k: " + k);
     }
 
-    void sum(){
+    void sum() {
         System.out.println("i + j + k: " + (i + j + k));
     }
 }

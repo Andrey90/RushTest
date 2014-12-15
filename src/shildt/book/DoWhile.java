@@ -4,7 +4,7 @@ package shildt.book;
  * Created by SuperStar on 01.12.2014.
  */
 class DoWhile {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         int n = 10;
         do {
             System.out.println(n);

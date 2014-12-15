@@ -4,7 +4,7 @@ package shildt.book.exampleDynamicDis;
  * Created by SuperStar on 11.12.2014.
  */
 class Dispatch {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         A a = new A();
         B b = new B();
         C c = new C();

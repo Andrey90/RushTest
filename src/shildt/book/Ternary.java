@@ -4,7 +4,7 @@ package shildt.book;
  * Created by SuperStar on 30.11.2014.
  */
 class Ternary {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         int i, k;
 
         i = 10;

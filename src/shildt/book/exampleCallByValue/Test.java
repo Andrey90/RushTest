@@ -5,11 +5,13 @@ package shildt.book.exampleCallByValue;
  */
 class Test {
     int a, b;
-    Test(int i, int j){
+
+    Test(int i, int j) {
         a = i;
         b = j;
     }
-    void meth(Test o){
+
+    void meth(Test o) {
         o.a *= 2;
         o.b /= 2;
     }

@@ -4,7 +4,7 @@ package shildt.book;
  * Created by SuperStar on 26.11.2014.
  */
 class Array {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         int month_days[];
         month_days = new int[12];
         month_days[0] = 31;
@@ -20,7 +20,7 @@ class Array {
         month_days[10] = 31;
         month_days[11] = 28;
 
-        System.out.println("V aprele " + month_days[3]+ " dney.");
+        System.out.println("V aprele " + month_days[3] + " dney.");
 
 
     }

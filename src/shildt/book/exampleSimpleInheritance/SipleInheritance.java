@@ -4,7 +4,7 @@ package shildt.book.exampleSimpleInheritance;
  * Created by SuperStar on 08.12.2014.
  */
 class SipleInheritance {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         A superOb = new A();
         B subOb = new B();
 

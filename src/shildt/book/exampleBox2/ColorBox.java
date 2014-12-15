@@ -6,7 +6,7 @@ package shildt.book.exampleBox2;
 class ColorBox extends Box {
     String color;
 
-    ColorBox (double w, double h, double d, String c){
+    ColorBox(double w, double h, double d, String c) {
         super(w, h, d);
         color = c;
     }

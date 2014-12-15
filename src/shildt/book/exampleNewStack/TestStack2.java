@@ -4,7 +4,7 @@ package shildt.book.exampleNewStack;
  * Created by SuperStar on 07.12.2014.
  */
 class TestStack2 {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Stack mystack1 = new Stack(5);
         Stack mystack2 = new Stack(8);
 
