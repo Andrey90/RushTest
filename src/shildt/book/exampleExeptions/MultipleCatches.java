@@ -6,7 +6,7 @@ package shildt.book.exampleExeptions;
 class MultipleCatches {
     public static void main(String args[]) {
         try {
-            int a = args.length;
+            int a = 2;
             //Если не указаны параметры командной строки, следующий оператор создаст исключение деления на ноль.
             int b = 42 / a;
 
