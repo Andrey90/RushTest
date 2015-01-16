@@ -1,4 +1,4 @@
-package ws.kostin;
+package ws.kostin.task1;
 
 /**
  * Created by luchkovsky on 23.12.14.
