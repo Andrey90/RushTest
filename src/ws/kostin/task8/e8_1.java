@@ -8,20 +8,16 @@ package ws.kostin.task8;
  * To change this template use File | Settings | File Templates.
  */
 public class e8_1 {
-    public static void main(String args[]){
-        int a[];
-        double ar1[];
-        double [] ar2 = {3.14, 2.43, -2.4, 33.4323};
+    public static void main(String args[]) {
+        int mas[];
+        int i = 0;
+        int a = 0;
 
-        a = new int[10];
-        int n = 5;
-        ar1 = new double[n];
-
-        System.out.println(+ ar2[1]);
-
-        ar2[0] = 5;
-        ar2[1] = 1;
-
-        System.out.println(ar2[0]);
+        for (i = 1; i <= 20; i++){
+            if (i % 2 == 0){
+                //mas[a] = i;
+                a++;
+            }
+        }
     }
 }
