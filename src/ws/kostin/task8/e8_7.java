@@ -21,7 +21,7 @@ public class e8_7 {
             count++;
         }
         System.out.println();
-        System.out.println(count);
+        System.out.println(count + 2);
 
     }
 }
