@@ -9,6 +9,17 @@ package ws.kostin.task8;
  */
 public class e8_12 {
     public static void main(String args[]){
+        int i;
+        int mas[] = new int[12];
+        int a;
+        int poz = 0;
+        int neg = 0;
 
+//        do {
+//            for (i = 0; i < mas.length; i++) {
+//                //Min + (int)(Math.random() * ((Max - Min) + 1))
+//                a = (-10) + (int) (Math.random() * 21);
+//            }
+//        }
     }
 }

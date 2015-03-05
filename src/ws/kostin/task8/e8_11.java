@@ -30,7 +30,7 @@ public class e8_11 {
             while (a % 2 != 0 || a < 0);
             int mas[] = new int[a];
             for (i = 0; i < mas.length; i++) {
-                mas[i] = (-5) + (int) (Math.random() * (5 - (-5)) + 1);
+                mas[i] = (-5) + (int) (Math.random() * 11);
                 System.out.print(mas[i] + " ");
             }
 
