@@ -23,10 +23,16 @@ public class e8_16 {
                 if (j == 0){
                     mas1[i] = mas[i][j];
                 }else {
+                    mas1[i] = mas[i][j] * mas1[i];
+                }
 
+                if (j == mas[i].length - 1){
+                    System.out.println(" ");
                 }
             }
-            System.out.println();
         }
+        //Создадим переменные, в которых будут храниться значения максимального произведения по модулю элеметов строк и индекс такой строки
+        int max = 0, max_1 = 0;
+
     }
 }
