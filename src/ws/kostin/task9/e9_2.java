@@ -24,7 +24,7 @@ public class e9_2 {
         System.out.print("Vvedite znachenie: ");
         int d = scanner.nextInt();
 
-        if (d < 3 && d > 0){
+        if (d < 45 && d > 0){
             rez = fibonachi(d);
             System.out.println(count);
             System.out.print(rez);
@@ -38,11 +38,7 @@ public class e9_2 {
                     rez = x1 + x2;
                     x1 = x2;
                     x2 = rez;
-                    if (rez == 3){
-                        count++;
-                    }
                 }
-                System.out.println(count);
                 System.out.print(rez);
             }
             else {
