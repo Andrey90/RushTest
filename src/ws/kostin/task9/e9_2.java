@@ -4,13 +4,19 @@ import java.util.Scanner;
 
 /**
  * Created by luchkovsky on 17.03.15.
+ * Подсчитайте, сколько раз потребуется повторно вычислить четвёртый элементы последовательности Фибоначчи для вычисления пятнадцатого элемента.
  */
 public class e9_2 {
+    public static int count = 0;
     public static int fibonachi(int a){
         if (a == 1 || a == 2){
             return 1;
         }
-        return fibonachi(a - 1) + fibonachi(a - 2);
+        int w = fibonachi(a - 1) + fibonachi(a - 2);
+        if (w == 3){
+            count++;
+        }
+        return w;
     }
     public static void main(String args[]){
         int rez = 0;
@@ -18,8 +24,9 @@ public class e9_2 {
         System.out.print("Vvedite znachenie: ");
         int d = scanner.nextInt();
 
-        if (d < 45 && d > 0){
+        if (d < 3 && d > 0){
             rez = fibonachi(d);
+            System.out.println(count);
             System.out.print(rez);
         }
         else {
@@ -31,7 +38,11 @@ public class e9_2 {
                     rez = x1 + x2;
                     x1 = x2;
                     x2 = rez;
+                    if (rez == 3){
+                        count++;
+                    }
                 }
+                System.out.println(count);
                 System.out.print(rez);
             }
             else {

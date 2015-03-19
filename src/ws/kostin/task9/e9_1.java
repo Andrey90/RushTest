@@ -1,7 +1,5 @@
 package ws.kostin.task9;
 
-import java.util.Scanner;
-
 /**
  * Created by luchkovsky on 12.03.15.
  * Создать статический метод, который будет иметь два целочисленных параметра a и b, и в качестве своего значения
@@ -67,29 +65,12 @@ public class e9_1 {
 
 //Создание обьектов массивов и операции над ними с помощью созданных методов
     public static void main(String args[]){
-        int mas1[] = new int[20];
-        zapArr(mas1);
-        sort(mas1);
-        print(mas1);
+        for (int i = 0; i < 5; i++) {
+            int mas2[] = new int[20];
+            zapArr(mas2);
+            sort(mas2);
+            print(mas2);
+        }
 
-        int mas2[] = new int[20];
-        zapArr(mas2);
-        sort(mas2);
-        print(mas2);
-
-        int mas3[] = new int[20];
-        zapArr(mas3);
-        sort(mas3);
-        print(mas3);
-
-        int mas4[] = new int[20];
-        zapArr(mas4);
-        sort(mas4);
-        print(mas4);
-
-        int mas5[] = new int[20];
-        zapArr(mas5);
-        sort(mas5);
-        print(mas5);
     }
 }
