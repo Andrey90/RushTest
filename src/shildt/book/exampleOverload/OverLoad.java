@@ -8,11 +8,11 @@ class OverLoad {
         OverLoadDemo ob = new OverLoadDemo();
         int i = 88;
 
-        //Вызов всех версий метода test
+        //Вызов всех версий метода e8_3
         ob.test();
-        ob.test(i); //етот оператор вызовет test(double)
-        ob.test(10, 20); //етот оператор вызовет test(double)
-        //result = ob.test(123.25);
-        //System.out.println("Результат ob.test(123.25): " + result);
+        ob.test(i); //етот оператор вызовет e8_3(double)
+        ob.test(10, 20); //етот оператор вызовет e8_3(double)
+        //result = ob.e8_3(123.25);
+        //System.out.println("Результат ob.e8_3(123.25): " + result);
     }
 }

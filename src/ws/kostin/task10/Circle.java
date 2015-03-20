@@ -1,5 +1,7 @@
 package ws.kostin.task10;
 
+import java.util.Scanner;
+
 /**
  * Created by luchkovsky on 19.03.15.
  */
@@ -8,15 +10,22 @@ public class Circle {
     public double x; //abscissa of the center
     public double y; //ordinate of the center
     public double r; //radius of circle
-    public double pi = 3.1415926535897932;
-    public double len;
-    public double sqr;
+    public double len;//calculate len
+    public double sqr;//calculate sqr
 
     //constructor Circle
+    //Измените в классе Circle конструктор по умолчанию так, чтобы в момент создания объекта с его помощью, координаты
+    // центра и радиус окружности пользователь вводил с клавиатуры.
     public Circle(){
-        x = 0.1;
-        y = 0.5;
-        r = 2;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter coordinate X: ");
+        x = scanner.nextDouble();
+
+        System.out.print("Enter coordinate Y: ");
+        y = scanner.nextDouble();
+
+        System.out.print("Enter radius R: ");
+        r = scanner.nextDouble();
     }
 
     //constructor Circle with attributes
@@ -39,19 +48,53 @@ public class Circle {
     }
 
     //scalable range
-    public void scalableR(double k){
-        r = r * k;
+    public void scalableR(double r){
+        this.r = Math.pow(r,2);
     }
 
     //length circle
+    //Создайте в классе Circle метод, вычисляющий длину окружности.
     public double lenCircle(){
-        len = pi * 2 * r;
+        len = Math.PI * 2 * r;
         return len;
     }
 
     //square circle
     public double squareCircle(){
-        sqr = pi * Math.pow(r,2);
+        sqr = Math.PI * Math.pow(r,2);
         return sqr;
+    }
+
+    //equals Circle
+    public boolean equalsCircle(Circle cir){
+        if (this.squareCircle() == cir.squareCircle()){
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+
+    //method for exercise 2
+    //Создайте в классе Circle метод, перемещающий центр круга в случайную точку квадрата координатной плоскости с
+    // диагональю от [-99;-99] до [99;99]. Обратите внимание на то, что требуется создать обычный метод, применимый к
+    // уже существующему объекту, а не конструктор создающий новый объект.
+    //Min + (int)(Math.random() * ((Max - Min) + 1))
+    public void relocate(double a, double b){
+        x = a + (Math.random() * ((b - a) + 1));
+        y = a + (Math.random() * ((b - a) + 1));
+        System.out.println(x + "; " + y);
+    }
+    //Создайте в классе Circle метод, вычисляющий расстояние между центрами двух окружностей.
+    public double distanceBetweenCenter(Circle cir1){
+        double dis = Math.sqrt(Math.sqrt(cir1.x - this.x) + Math.sqrt(cir1.y - this.y));
+        //System.out.println(dis);
+        return dis;
+    }
+
+    //Создайте в классе Circle метод, проверяющий, касаются ли окружности в одной точке. Учтите, что возможен вариант,
+    //когда одна окружность содержится внутри другой и при этом всё равно возможно касание в одной точке.
+    public double pointCir(Circle cir1){
+        return 0;
     }
 }
