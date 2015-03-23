@@ -11,9 +11,9 @@ public class Main {
         //print parameters of this object(circle)
         //circle.printCircle();
         //change abscissa of circle
-        circle.relocateCircle(3.4,21.5);
+        circle.relocateCircle(3,1);
         //change radius
-        circle.r = 12.4;
+        circle.r = 3;
         //calculate len
         circle.lenCircle();
         //calculate sqr
@@ -22,9 +22,10 @@ public class Main {
         circle.printCircle();
 
 
-        Circle circle2 = new Circle(1.0,12.9,44.0);
+        Circle circle2 = new Circle(1.0,5.0,2.0);
         circle2.printCircle();
         System.out.println(circle2.distanceBetweenCenter(circle));
+        circle2.pointCir(circle);
 
 //        Circle circle3 = new Circle(3.4,43,11.9);
 //        circle3.lenCircle();

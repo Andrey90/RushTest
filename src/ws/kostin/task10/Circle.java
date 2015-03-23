@@ -94,7 +94,15 @@ public class Circle {
 
     //Создайте в классе Circle метод, проверяющий, касаются ли окружности в одной точке. Учтите, что возможен вариант,
     //когда одна окружность содержится внутри другой и при этом всё равно возможно касание в одной точке.
-    public double pointCir(Circle cir1){
-        return 0;
+    public void pointCir(Circle cir1){
+        if ((cir1.x + cir1.y) - (this.x + this.y) > cir1.r + this.r){
+            System.out.println("Circle intersect");
+        }
+        else if (cir1.r == this.r && cir1.x == this.x && cir1.y == this.y){
+            System.out.println("Circle equal");
+        }
+        else {
+            System.out.println("Circle do not have point of intersection");
+        };
     }
 }
