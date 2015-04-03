@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/ws/kostin/task11/Main.java" line="24" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="49bfe510-7e59-44d2-b046-b031d6c4f005" name="Default" comment="Массивы/ Задача 5">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ws/kostin/task10/Circle.java" afterPath="$PROJECT_DIR$/src/ws/kostin/task10/Circle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ws/kostin/task10/Main.java" afterPath="$PROJECT_DIR$/src/ws/kostin/task10/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shildt/book/exampleOverload/OverLoad.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleOverload/OverLoad.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shildt/book/exampleOverload/OverLoadDemo.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleOverload/OverLoadDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="49bfe510-7e59-44d2-b046-b031d6c4f005" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ws/kostin/task11/Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ws/kostin/task11/Main.java" afterPath="$PROJECT_DIR$/src/ws/kostin/task11/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ws/kostin/task11/Point.java" afterPath="$PROJECT_DIR$/src/ws/kostin/task11/Point.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RushTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
-    <file path="/Dummy.txt" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1426844762914" ignored="false" />
+    <file path="/Dummy.txt" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1428052398038" ignored="false" />
     <file path="/e7_16.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1423055659232" ignored="false" />
     <file path="/e8_1.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1423065228620" ignored="false" />
     <file path="/test.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1423832523327" ignored="false" />
@@ -29,8 +26,10 @@
     <file path="/e9_1.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1426779763259" ignored="false" />
     <file path="/simple.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1426781439839" ignored="false" />
     <file path="/e9_2.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1426782151068" ignored="false" />
-    <file path="/Circle.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1426867616158" ignored="false" />
-    <file path="/Main.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1426867504958" ignored="false" />
+    <file path="/Circle.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1427102405044" ignored="false" />
+    <file path="/Main.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1428072409852" ignored="false" />
+    <file path="/Point.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1428068899242" ignored="false" />
+    <file path="/Triangle.java" changelist="49bfe510-7e59-44d2-b046-b031d6c4f005" time="1428072971671" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,19 +90,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Circle.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ws/kostin/task10/Circle.java">
+      <file leaf-file-name="Point.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ws/kostin/task11/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="146" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.13598901">
+            <state line="57" column="39" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ws/kostin/task11/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="95" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.71854305">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ws/kostin/task10/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/ws/kostin/task11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="58" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
+            <state line="14" column="33" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -132,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ws/kostin/task7/e7_16.java" />
         <option value="$PROJECT_DIR$/src/ws/kostin/task8/e8_1.java" />
         <option value="$PROJECT_DIR$/src/ws/kostin/task8/test.java" />
         <option value="$PROJECT_DIR$/src/ws/kostin/task8/e8_3.java" />
@@ -144,16 +151,38 @@
         <option value="$PROJECT_DIR$/src/ws/kostin/task9/e9_1.java" />
         <option value="$PROJECT_DIR$/src/ws/kostin/simple.java" />
         <option value="$PROJECT_DIR$/src/ws/kostin/task9/e9_2.java" />
-        <option value="$PROJECT_DIR$/src/ws/kostin/task10/Main.java" />
         <option value="$PROJECT_DIR$/src/ws/kostin/task10/Circle.java" />
+        <option value="$PROJECT_DIR$/src/ws/kostin/task10/Main.java" />
+        <option value="$PROJECT_DIR$/src/ws/kostin/task11/Point.java" />
+        <option value="$PROJECT_DIR$/src/ws/kostin/task11/Main.java" />
+        <option value="$PROJECT_DIR$/src/ws/kostin/task11/Triangle.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnusedAssignment</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -183,6 +212,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,7 +267,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="task10" />
+              <option name="myItemId" value="task11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,20 +287,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="267" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="296" />
     <property name="project.structure.proportion" value="0.0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="296" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="289" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="289" />
+    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="297" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="964" />
@@ -285,16 +314,16 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="e8_8" type="Application" factoryName="Application" temporary="true">
@@ -395,6 +424,28 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ws.kostin.task11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ws.kostin.task11.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRush" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -407,19 +458,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -448,6 +486,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -484,28 +535,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ws.kostin.task10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ws.kostin.task10.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRush" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="e9_1" type="Application" factoryName="Application">
@@ -559,20 +588,21 @@
       <method />
     </configuration>
     <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.e9_1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.e7_15" />
-      <item index="3" class="java.lang.String" itemvalue="Application.e8_8" />
-      <item index="4" class="java.lang.String" itemvalue="Application.e8_16" />
-      <item index="5" class="java.lang.String" itemvalue="Application.e9_2" />
-      <item index="6" class="java.lang.String" itemvalue="Application.simple" />
+      <item index="0" class="java.lang.String" itemvalue="Application.e9_1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.e7_15" />
+      <item index="2" class="java.lang.String" itemvalue="Application.e8_8" />
+      <item index="3" class="java.lang.String" itemvalue="Application.e8_16" />
+      <item index="4" class="java.lang.String" itemvalue="Application.e9_2" />
+      <item index="5" class="java.lang.String" itemvalue="Application.simple" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.e9_2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.simple" />
-        <item index="2" class="java.lang.String" itemvalue="Application.e8_16" />
-        <item index="3" class="java.lang.String" itemvalue="Application.e8_8" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.e9_2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.simple" />
+        <item index="3" class="java.lang.String" itemvalue="Application.e8_16" />
+        <item index="4" class="java.lang.String" itemvalue="Application.e8_8" />
       </list>
     </recent_temporary>
   </component>
@@ -628,16 +658,25 @@
       <created>1426782340915</created>
       <updated>1426782340915</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Пересечение окружностей">
+      <created>1426867837596</created>
+      <updated>1426867837596</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Создание собственных классов в Java (продолжение). Класс ObjectЗадача 3">
+      <created>1427126817347</created>
+      <updated>1427126817347</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31522897" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -646,23 +685,22 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3154961" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24866596" sideWeight="0.8405797" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1594203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24866596" sideWeight="0.6723586" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15901814" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -716,7 +754,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Массивы/ Рекурсия" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание собственных классов в Java (продолжение). Класс ObjectЗадача 3" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -737,6 +775,8 @@
     <MESSAGE value="Массивы/ Задача 16/ закончить" />
     <MESSAGE value="Массивы/ Задача 16" />
     <MESSAGE value="Массивы/ Рекурсия" />
+    <MESSAGE value="Пересечение окружностей" />
+    <MESSAGE value="Создание собственных классов в Java (продолжение). Класс ObjectЗадача 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -746,26 +786,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ws/kostin/task7/e7_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ws/kostin/task7/e7_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="24" selection-start="1701" selection-end="1701" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ws/kostin/task8/e8_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOverload/OverLoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="49" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/task8/e8_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="37" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0" />
@@ -798,9 +818,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/task8/e8_16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="8" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="35" column="8" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/simple.java">
@@ -812,28 +830,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/task9/e9_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="2478" selection-end="2478" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="73" column="0" selection-start="2478" selection-end="2478" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/task9/e9_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="59" selection-start="692" selection-end="692" vertical-scroll-proportion="0.35738832">
-          <folding />
-        </state>
+        <state line="23" column="59" selection-start="692" selection-end="692" vertical-scroll-proportion="0.35738832" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/task10/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="58" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="25" column="44" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ws/kostin/task10/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="146" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.13598901">
+        <state line="105" column="11" selection-start="3516" selection-end="3516" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.33241758" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ws/kostin/task11/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="39" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ws/kostin/task11/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ws/kostin/task11/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="95" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.71854305">
           <folding />
         </state>
       </provider>
