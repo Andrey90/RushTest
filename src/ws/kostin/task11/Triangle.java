@@ -43,10 +43,10 @@ public class Triangle {
     }
 
     //square of triangle
-//    public void getSquareTr(Point a, Point b, Point c){
-//        double rez = 0;
-//        double p = getPerimeterTr()/2;
-//        rez = Math.sqrt(p * (p - a.length(a,b) ) * (p - b.length(p1,p3)) * (p - c.length(p2, p3)));
-//        System.out.println("Square = " + rez);
-//    }
+    public void getSquareTr(){
+        double rez = 0;
+        double p = getPerimeterTr()/2;
+        rez = Math.sqrt(p * (p - Point.length(a,b) ) * (p - Point.length(a,c))) * (p - Point.length(b,c));
+        System.out.println("Square = " + rez);
+    }
 }

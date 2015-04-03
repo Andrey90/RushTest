@@ -42,7 +42,7 @@ public class Main {
         triangle.print();
         triangle.getPerimeterTr(point1.length(point2), point2.length(point3), point1.length(point3));
         System.out.println(triangle.getPerimeterTr());
-        triangle.getSquareTr(point1, point2, point3);
+        triangle.getSquareTr();
 
     }
 }
