@@ -1,4 +1,4 @@
-package ws.kostin.task12;
+package ws.kostin.task12_1;
 
 /**
  * Created with IntelliJ IDEA.

@@ -1,4 +1,4 @@
-package ws.kostin.task12;
+package ws.kostin.task12_1;
 
 /**
  * Created with IntelliJ IDEA.
@@ -7,8 +7,9 @@ package ws.kostin.task12;
  * Time: 12:15
  * To change this template use File | Settings | File Templates.
  */
-class Cat extends Pet{
+class Snake extends Pet{
+    double length;
     void voice(){
-        System.out.println("Myav-myav");
+        System.out.println("Sshhhhhhhh...");
     }
 }
