@@ -6,7 +6,10 @@ package shildt.book;
 public class ClassCharacter {
     public static void main(String[] args) {
         char a[] = {'a', 'b', '5', '?', 'A', ' '};
+        long start, end;
 
+        start = System.nanoTime();
+        System.out.println(start);
         for (int i = 0; i < a.length; i++){
             if (Character.isDigit(a[i]))
                 System.out.println(a[i] + " Десятичное число");
@@ -19,5 +22,8 @@ public class ClassCharacter {
             if (Character.isLowerCase(a[i]))
                 System.out.println(a[i] + " Нижний регистр");
         }
+        end = System.nanoTime();
+        System.out.println(end);
+        System.out.println((end - start));
     }
 }
