@@ -38,5 +38,20 @@ public class ArrayListDemo {
         System.out.println(a2.size());
         System.out.println(a2);
 
+        System.out.println("##############################################");
+        ArrayList<Integer> a3 = new ArrayList<Integer>();
+        a3.add(1);
+        a3.add(2);
+        System.out.println(a3);
+
+        Integer mass[] = new Integer[a3.size()];
+        mass = a3.toArray(mass);
+        int sum = 0;
+
+        for (int i: mass){
+            sum = sum + 1;
+            System.out.println(mass);
+        }
+        System.out.println(sum);
     }
 }
