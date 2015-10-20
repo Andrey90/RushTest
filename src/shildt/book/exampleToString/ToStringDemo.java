@@ -80,8 +80,8 @@ public class ToStringDemo {
         System.out.println(sN.replace("l", "r"));
 
         //trim
-        System.out.println(" Test method TRIM ! ! !");
-        System.out.println(" Test method TRIM ! ! !".trim());
+        System.out.println(" A method TRIM ! ! !");
+        System.out.println(" A method TRIM ! ! !".trim());
 
         //valueOf
         Integer in = Integer.valueOf(100);
