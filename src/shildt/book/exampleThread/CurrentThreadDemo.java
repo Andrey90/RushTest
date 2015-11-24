@@ -16,7 +16,7 @@ class CurrentThreadDemo {
         try {
             for (int n = 5; n > 0; n--){
                 System.out.println(n);
-                Thread.sleep(1000);
+                Thread.sleep(1000, 50000);
             }
         }
         catch (InterruptedException e){
