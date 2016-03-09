@@ -2,312 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebceb552-dffd-42dd-9824-51e719d72d65" name="Default" comment="Collections">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Demo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Demo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Demo3.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/Animals/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/Animals/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/Animals/Mammal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/Animals/TestMammals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/Paralelepiped.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/Star.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/TestShape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/OOM/DrawFigure/Triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/bionic/hello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/bionic/input.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/hw1/Oper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/hw1/Proba1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/hw1/Proba2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/hw1/Proba3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/lesson2/X.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/lesson2/XUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/lesson3/SymbolTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/lesson3/Triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/pw1/Calc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/pw1/Functions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javable/pw3/Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Area.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/AutoArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Average.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/BasicMath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/BitLogic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/BlockTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/BoolTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/BreakLoop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ByteShift.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ByteUShift.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/CharDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ClassCharacter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/CommandLine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Continue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ContinueLabe1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Conversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/DoWhile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/DouBle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/DynInit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Example1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Example2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ForEach.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ForEach3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ForTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/HexByte.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/IfElse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/IfSample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/IncDec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/LifeTime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Light.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Matrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/MemoryDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/MissingBreak.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Nested.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/NoBody.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/OpEquals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Parse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/PassArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Promote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Sample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/SampleSwitch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Scope.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Search.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/StringDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/StringDemo3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/SwitchEx.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/Ternary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/ThreeMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/TwoDAgain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/TwoDArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/VarArgs3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/WhileTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox/Box.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox/BoxDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox2/Box.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox2/BoxDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox2/BoxWeight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox2/ColorBox.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleBox2/RefDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCallByValue/CallByValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCallByValue/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/Address.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/ArrayDequeDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/ArrayListDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/ForEachDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/HashSetDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/IteratorDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/LinkedListDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/MailList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollection/TreeSetDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollections/HashTableDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollections/PropertiesDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollections/PropertiesLoaderDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollections/StackDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleCollections/VectorDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleComporators/AlgorithmsDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleComporators/CompDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleComporators/MyComp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleComporators/TComp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleComporators/TreeMapDemo2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleDynamicDis/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleDynamicDis/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleDynamicDis/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleDynamicDis/Dispatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleEnum/Apple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleEnum/EnumDemo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleEnum/EnumDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleEnum/EnumDemo2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleEnum/EnumDemo3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/ChainExDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/Exc2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/ExceptoinDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/HandleError.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/MultiCatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/MultipleCatches.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/MyException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/TestTry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExeptions/ThrowDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExtendsInterface/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExtendsInterface/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExtendsInterface/IfExtend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleExtendsInterface/MyClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleFactorial/Factorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleFactorial/Recursion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleFigure/Figure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleFigure/FindAreas.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleFigure/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleFigure/Triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleForInClass/InnerClassDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleForInClass/Outer$1Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleForInClass/Outer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInner/InnerClassDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInner/Outer$Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInner/Outer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface/AnotherClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface/Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface/TestInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface/TestInterface2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface2/A$NestedIf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface2/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface2/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterface2/NestedIfDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceConstant/AskMe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceConstant/Question.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceConstant/SharedConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceStack/DynStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceStack/FixedStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceStack/IfTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceStack/IfTest2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceStack/IfTest3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleInterfaceStack/IntStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleMaps/HashMapDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleMaps/TreeMapDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleNewBox/Box.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleNewBox/BoxWeight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleNewBox/DemoShipment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleNewBox/Shipment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleNewStack/Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleNewStack/TestStack2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleOverload/OverLoad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleOverload/OverLoadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePack/AccountBalance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePack/Balance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePasOb/PassOb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePasOb/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p1/Demo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p1/Derived.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p1/Protection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p1/SamePackage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p2/Demo2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p2/OtherPackage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/examplePermissions/p2/Protection2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleProcess/ExecDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleProcess/ExecDemoFini.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleRecMet/RecTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleRecMet/Recursion2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleServiceClass/BitSetDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleServiceClass/CalendarDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleServiceClass/DateDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleServiceClass/STDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleSimpleInheritance/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleSimpleInheritance/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleSimpleInheritance/SipleInheritance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleStack/Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleStack/TestStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleThread/CurrentThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleThread/NewThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleThread/ThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleToString/Box.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleToString/ToStringDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleUseSuper/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleUseSuper/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleUseSuper/UseSuper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleWorkString/MakeString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleWorkString/StringBuf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleWorkString/SubStringCons.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exampleWorkString/test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exanpleReturnOb/RetOb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/exanpleReturnOb/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shildt/book/newMass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/Main1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/abClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/simple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task1/e1_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task1/e1_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task1/e1_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task1/e1_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task1/e1_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task10/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task10/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task11/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task11/Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task11/Triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/Fish.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/PatrolDog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/Pet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_1/Snake.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_2/Drum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_2/Guitar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_2/Instruments.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_3/CargoAuto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_3/PassangerAuto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_3/Pickup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_3/Sedan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_3/Truck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_4/Interface1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_4/Interface2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_4/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task12_4/SomeClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task13/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task2/e2_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task2/e2_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task3/e3_7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task4/e4_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task4/e4_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task4/e4_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task5/e5_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task5/e5_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task5/e5_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task5/e5_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task6/e6_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task6/e6_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task6/e6_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task6/e6_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_1c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task7/e7_9_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/e8_9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/sort_puzyrkom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task8/sort_vyborom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task9/e9_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ws/kostin/task9/e9_2.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread2/Account2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread2/RunThread2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shildt/book/exampleThread/Account.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/Account.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shildt/book/exampleThread/Demo3.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/RunThread.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app.iml" afterPath="$PROJECT_DIR$/my-app.iml" />
     </list>
     <ignored path="RushTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -335,7 +34,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Account.java">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/Account.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
@@ -344,17 +43,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Demo3.java">
+      <file leaf-file-name="RunThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/RunThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83468837">
-              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding>
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#1168#1169#0" expanded="true" />
+                <element signature="e#1214#1215#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread2/Account2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunThread2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread2/RunThread2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3148148">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -384,9 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleWorkString/MakeString.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleWorkString/StringBuf.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleWorkString/SubStringCons.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleToString/Box.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleToString/ToStringDemo.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/DouBle.java" />
@@ -435,6 +151,9 @@
         <option value="$PROJECT_DIR$/src/shildt/book/exampleThread/WithdrawThread.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleThread/Demo3.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleThread/Account.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/Account.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/Demo3.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/RunThread.java" />
       </list>
     </option>
   </component>
@@ -454,9 +173,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -523,60 +243,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exampleThread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -594,6 +260,9 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luchk\pr\RushTest\src\shildt\book\exampleThread\Thread1" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="shildt.book.exampleThread" />
     </key>
@@ -1056,7 +725,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1069,13 +738,13 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4256" sideWeight="0.77679884" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2555066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26207906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.4889868" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3648" sideWeight="0.73274595" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35962147" sideWeight="0.73274595" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1115,13 +784,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleProcess/ExecDemoFini.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleProcess/ExecDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1453,7 +1115,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
@@ -1461,16 +1123,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Demo3.java">
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread1/RunThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83468837">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread2/Account2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleThread/Thread2/RunThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3148148">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

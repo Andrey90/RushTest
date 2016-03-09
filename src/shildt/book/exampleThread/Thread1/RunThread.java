@@ -1,9 +1,11 @@
-package shildt.book.exampleThread;
+package shildt.book.exampleThread.Thread1;
+
+import shildt.book.exampleThread.Thread1.Account;
 
 /**
  * Created by luchk on 08.03.2016.
  */
-public class Demo3 {
+public class RunThread {
     public static void main(String[] args) throws InterruptedException {
         Account account = new Account(100_000);
         System.out.println("Begin balance = " + account.getBalance());
