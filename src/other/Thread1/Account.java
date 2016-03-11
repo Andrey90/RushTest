@@ -1,4 +1,4 @@
-package shildt.book.exampleThread.Thread1;
+package other.Thread1;
 
 /**
  * Created by luchk on 08.03.2016.
