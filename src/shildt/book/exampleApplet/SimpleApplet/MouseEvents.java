@@ -1,4 +1,4 @@
-package shildt.book.exampleApplet;
+package shildt.book.exampleApplet.SimpleApplet;
 
 import java.applet.Applet;
 import java.awt.*;
@@ -10,7 +10,7 @@ import java.awt.event.MouseMotionListener;
  * Created by luchk on 23.03.2016.
  */
 /*
-<applet code = "MouseEvents" width = 800 height = 50>
+<applet code = "MouseEvents" width = 300 height = 100>
 </applet>
  */
 public class MouseEvents extends Applet implements MouseListener, MouseMotionListener{
