@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebceb552-dffd-42dd-9824-51e719d72d65" name="Default" comment="Collections">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/AdapterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseMotionAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shildt/book/exampleApplet/MouseEvents.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/MouseEvents.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/AdapterDemoKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/MyKeyListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AnonymousInnerClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletInnerDemo/InnerClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletSkel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/Sample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleBanner.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/AdapterDemo.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/AdapterDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseAdapter.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/MyMouseAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseMotionAdapter.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/MyMouseMotionAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/MouseEvents.java" afterPath="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/MouseEvents.java" />
     </list>
     <ignored path="RushTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,62 +42,40 @@
     <favorites_list name="RushTest" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimpleKey.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/SimpleKey.java">
+    <leaf>
+      <file leaf-file-name="AppletSkel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletSkel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#1319#1320#0" expanded="true" />
-                <element signature="e#1355#1356#0" expanded="true" />
-                <element signature="e#1521#1522#0" expanded="true" />
-                <element signature="e#1560#1561#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdapterDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/AdapterDemo.java">
+      <file leaf-file-name="Sample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/Sample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyMouseMotionAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseMotionAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyMouseAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseAdapter.java">
+      <file leaf-file-name="SimpleBanner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleBanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="102">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,19 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/FormatDemo4.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/FieldWidthDemo.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/PrecisionDemo.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/LeftJustify.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/FormattDemo5.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/FormatDemo6.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleFormatter/FormatDemo.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleScanner/ScannerDemo1.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleScanner/AvgNums.java" />
-        <option value="$PROJECT_DIR$/test.txt" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleScanner/AvgFile.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleScanner/ScanMixed.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleScanner/SetDelimiters.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleScanner/FindInLineDemo.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleResourceBundle/SampleRB_de.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleResourceBundle/SampleRB.java" />
@@ -164,15 +136,28 @@
         <option value="$PROJECT_DIR$/src/shildt/book/exampleIO/CharArrayWriterDemo.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/MouseEvents.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleKey.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/MouseEvents.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseListener.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseAdapter.java" />
-        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/SimpleKey.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseMotionAdapter.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/MyKeyListner.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/AdapterDemo.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/MyKeyListener.java" />
         <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/KeyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/MouseEvents.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/MyMouseAdapter.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/AdapterDemoMouse.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/AdapterDemoKey.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/MyKeyListener.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletInnerDemo/MouseProcessedDemo.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletInnerDemo/MousePressedDemo.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletInnerDemo/InnerClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AnonymusInnerClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AnonymousInnerClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/SimpleKey.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/AdapterDemo.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletSkel.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/Sample.java" />
+        <option value="$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleBanner.java" />
       </list>
     </option>
   </component>
@@ -238,11 +223,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files" />
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -314,36 +299,6 @@
               <option name="myItemId" value="exampleApplet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleApplet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RushTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exampleApplet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdapterDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -361,41 +316,22 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luchk\pr\RushTest\src\other" />
+      <recent name="C:\Users\luchk\pr\RushTest\src\shildt\book\exampleThread\Thread1" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="shildt.book.exampleApplet.AdapterDemoMouse" />
       <recent name="shildt.book.exampleApplet.AdapterForKey" />
       <recent name="shildt.book.exampleApplet.AdapterDemo" />
       <recent name="shildt.book.exampleIO" />
       <recent name="shildt.book.exampleThread" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\luchk\pr\RushTest\src\other" />
-      <recent name="C:\Users\luchk\pr\RushTest\src\shildt\book\exampleThread\Thread1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Applet.KeyAdapter">
-    <configuration default="false" name="CharArrayWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="shildt.book.exampleIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleIO.CharArrayWriterDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+  <component name="RunManager" selected="Applet.SimpleBanner">
+    <configuration default="false" name="AdapterDemo" type="Applet" factoryName="Applet" temporary="true">
       <module name="my-app" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MouseEvents" type="Applet" factoryName="Applet" temporary="true">
-      <module name="my-app" />
-      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.SimpleApplet.MouseEvents" />
+      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.AdapterDemoKey.AdapterDemo" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -409,17 +345,25 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method />
     </configuration>
-    <configuration default="false" name="AdapterDemo" type="Applet" factoryName="Applet" temporary="true">
+    <configuration default="false" name="AppletSkel" type="Applet" factoryName="Applet" temporary="true">
       <module name="my-app" />
-      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.AdapterDemo.AdapterDemo" />
+      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.AppletSkel" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method />
     </configuration>
-    <configuration default="false" name="KeyAdapter" type="Applet" factoryName="Applet" temporary="true">
+    <configuration default="false" name="Sample" type="Applet" factoryName="Applet" temporary="true">
       <module name="my-app" />
-      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.AdapterForKey.KeyAdapter" />
+      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.Sample" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleBanner" type="Applet" factoryName="Applet" temporary="true">
+      <module name="my-app" />
+      <option name="MAIN_CLASS_NAME" value="shildt.book.exampleApplet.SimpleBanner" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -696,19 +640,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.IteratorDemo" />
       <item index="1" class="java.lang.String" itemvalue="Application.DouBle" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CharArrayWriterDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.MouseEvents" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.SimpleKey" />
-      <item index="5" class="java.lang.String" itemvalue="Applet.AdapterDemo" />
-      <item index="6" class="java.lang.String" itemvalue="Applet.KeyAdapter" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.AdapterDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.SimpleKey" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.AppletSkel" />
+      <item index="5" class="java.lang.String" itemvalue="Applet.Sample" />
+      <item index="6" class="java.lang.String" itemvalue="Applet.SimpleBanner" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.KeyAdapter" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.AdapterDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.SimpleKey" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.MouseEvents" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CharArrayWriterDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.SimpleBanner" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.Sample" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.AppletSkel" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.AdapterDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.SimpleKey" />
       </list>
     </recent_temporary>
   </component>
@@ -778,17 +722,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4256" sideWeight="0.22320117" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916054" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.49721116" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15299684" sideWeight="0.77679884" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15930599" sideWeight="0.77679884" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.4889868" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21522693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2448" sideWeight="0.73274595" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24447949" sideWeight="0.73274595" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -796,6 +739,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.4889868" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -911,7 +855,7 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="46" />
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -920,111 +864,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleScanner/AvgNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleScanner/SetDelimiters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleScanner/FindInLineDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleResourceBundle/SampleRB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ResourceBundle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1386" column="0" selection-start-line="1386" selection-start-column="0" selection-end-line="1386" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleResourceBundle/RLBDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/IncDec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/OpEquals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/IfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/Conversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/ForTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/ClassCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleOther/Ternary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1218,90 +1057,213 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseListener.java">
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/KeyAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/MyKeyListener.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="202">
+          <caret line="5621" column="29" selection-start-line="5621" selection-start-column="29" selection-end-line="5621" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#368#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/event/KeyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="151" column="13" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/event/KeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/event/KeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27457">
+          <caret line="1957" column="16" selection-start-line="1957" selection-start-column="16" selection-end-line="1957" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/event/MouseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletInnerDemo/InnerClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/AdapterDemoKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#327#328#0" expanded="false" />
+            <element signature="e#382#383#0" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#457#458#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoMouse/MyKeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#306#307#0" expanded="false" />
+            <element signature="e#358#359#0" expanded="false" />
+            <element signature="e#1197#1198#0" expanded="false" />
+            <element signature="e#1248#1249#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/AdapterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/MyMouseMotionAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemoKey/MyMouseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/MouseEvents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-749">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2190#2191#0" expanded="true" />
-            <element signature="e#2240#2241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/MyMouseMotionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterDemo/AdapterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/KeyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AdapterForKey/MyKeyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="934">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleApplet/SimpleKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="-52">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#426#427#0" expanded="false" />
+            <element signature="e#462#463#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AnonymousInnerClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#1355#1356#0" expanded="true" />
-            <element signature="e#1521#1522#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/AppletSkel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shildt/book/exampleApplet/SimpleBanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

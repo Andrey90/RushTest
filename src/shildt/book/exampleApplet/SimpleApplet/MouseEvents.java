@@ -27,7 +27,7 @@ public class MouseEvents extends Applet implements MouseListener, MouseMotionLis
     public void mouseClicked(MouseEvent me){
         //сохранить координаты
         mouseX = 0;
-        mouseY = 10;
+        mouseY = 0;
         msg = "Mouse clicked.";
         repaint();
     }
@@ -36,7 +36,7 @@ public class MouseEvents extends Applet implements MouseListener, MouseMotionLis
     public void mouseEntered(MouseEvent me){
         //сохранить координаты
         mouseX = 0;
-        mouseY = 10;
+        mouseY = 0;
         msg = "Mouse entered.";
         repaint();
     }
@@ -45,7 +45,7 @@ public class MouseEvents extends Applet implements MouseListener, MouseMotionLis
     public void mouseExited(MouseEvent me){
         //сохранить координаты
         mouseX = 0;
-        mouseY = 10;
+        mouseY = 0;
         msg = "Mouse exited.";
         repaint();
     }
