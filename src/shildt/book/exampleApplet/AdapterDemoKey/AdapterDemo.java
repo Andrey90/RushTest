@@ -1,13 +1,18 @@
+/*
 package shildt.book.exampleApplet.AdapterDemoKey;
 
 import java.applet.Applet;
 
+*/
 /**
  * Created by luchk on 10.04.2016.
- */
+ *//*
+
+*/
 /*<applet code = "MouseEvents" width = 300 height = 100>
 </applet>
-*/
+*//*
+
 
 public class AdapterDemo extends Applet{
     public void init(){
@@ -16,3 +21,4 @@ public class AdapterDemo extends Applet{
         addMouseMotionListener(new MyMouseMotionAdapter(this));
     }
 }
+*/

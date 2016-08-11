@@ -1,11 +1,14 @@
+/*
 package shildt.book.exampleApplet.AdapterDemoKey;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionAdapter;
 
+*/
 /**
  * Created by luchk on 10.04.2016.
- */
+ *//*
+
 public class MyMouseMotionAdapter extends MouseMotionAdapter {
     AdapterDemo adapterDemo;
     public MyMouseMotionAdapter(AdapterDemo adapterDemo) {
@@ -17,3 +20,4 @@ public class MyMouseMotionAdapter extends MouseMotionAdapter {
         adapterDemo.showStatus("Mouse dragged");
     }
 }
+*/

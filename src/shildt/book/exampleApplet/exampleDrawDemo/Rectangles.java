@@ -6,7 +6,7 @@ import java.awt.*;
 /**
  * Created by luchk on 12.07.2016.
  */
-    /*<applet code = "Lines" width = 300 height = 200>
+/*<applet code = "Rectangles" width = 300 height = 200>
 </applet>*/
 public class Rectangles extends Applet{
     public void paint(Graphics g){

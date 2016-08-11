@@ -6,23 +6,24 @@ import java.awt.*;
 /**
  * Created by luchk on 10.05.2016.
  */
-/*<applet code = "SimpleBanner" width = 300 height = 50>
+/*<applet code = "SimpleBanner" width = 300 height = 500>
 </applet>
  */
 public class SimpleBanner extends Applet implements Runnable {
-    String msg = "A Simple Moving Banner for demonstration!";
+    String msg = " A Simple Moving Banner for demonstarations.";
     Thread t = null;
-    boolean stopFlag;
+//    int state;
+    volatile boolean stopFlag;
 
     //Установить цвета и инициализировать поток
     public void init(){
         setBackground(Color.cyan);
-        setForeground(Color.red);
+        setForeground(Color.black);
     }
 
     //Запустить поток
     public void start(){
-        t = new Thread();
+        t = new Thread(this);
         stopFlag = false;
         t.start();
     }
@@ -57,6 +58,8 @@ public class SimpleBanner extends Applet implements Runnable {
         msg = msg.substring(1, msg.length());
         msg += ch;
 
-        gp.drawString(msg, 50, 30);
+        gp.drawString(msg, 50, 10);
+
+        gp.drawString("Simple string", 50, 31);
     }
 }
