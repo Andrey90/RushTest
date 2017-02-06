@@ -5,7 +5,7 @@ import java.util.ListResourceBundle;
 /**
  * Created by luchk on 20.03.2016.
  */
-public class SampleRB_de extends ListResourceBundle {
+class SampleRB_de extends ListResourceBundle {
     protected Object[][] getContents() {
         Object[][] resources = new Object[3][2];
 
